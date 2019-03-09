@@ -9,9 +9,7 @@ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Adv
 
        _Wechat(微信):_ [[https://chxiaoxn.github.io/wechat.jpg][Scan the QR Code]].
 
-[[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
 
-[[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] 
 
 
 *Education*
@@ -21,12 +19,18 @@ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Adv
       - Thesis title: /Some aspects of the minimal surface theory/
  - 2012 - 2015, Master of Science, Tsinghua University, Beijing, China.
  - 2008 - 2012, Bachelor of Science, Sun Yat-sen University, Guangzhou, China.
+   
+
 
 *Research interests*
 
   1. geometrical problems related to general relativity;
   2. min-max theory of minimal surfaces;
   3. geometric flows;
+
+[[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
+
+[[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] 
 
 *Preprints/work in progress*
 

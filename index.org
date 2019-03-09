@@ -14,6 +14,8 @@ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Adv
 
 *Education*
 
+[[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
+
  - 2015 - 2018, PhD in Mathematics, The Chinese University of Hong Kong, HKSAR.
       - Supervisor: Prof. Martin Man-chun Li, Prof. Luen-fai Tam (co-advisor)
       - Thesis title: /Some aspects of the minimal surface theory/
@@ -24,13 +26,13 @@ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Adv
 
 *Research interests*
 
+[[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] 
+
   1. geometrical problems related to general relativity;
   2. min-max theory of minimal surfaces;
   3. geometric flows;
 
-[[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
 
-[[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] 
 
 *Preprints/work in progress*
 

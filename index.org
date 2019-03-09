@@ -3,7 +3,7 @@
 
 I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Luen-fai Tam (co-advisor).
 
-You can reach me via email /xxchai@kias.re.kr/ or you would like to visit me in person at /Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea/.
+You can reach me via email /xxchai@kias.re.kr/ or you would like to visit me in person at /Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea/. Or you can scan my [[https://chxiaoxn.github.io/wechat.jpg][QR Code]].
 
 [[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
 

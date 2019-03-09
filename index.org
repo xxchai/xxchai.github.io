@@ -1,9 +1,9 @@
 #+options: toc:nil
 #+title: 柴小祥 (CHAI Xiaoxiang)
 
-I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (methor: [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisor was [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Luen-fai Tam (co-advisor).
+I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Luen-fai Tam (co-advisor).
 
-You can reach me via email /xxchai@kias.re.kr/ or you would like to visit me in person at /Room 1539, KIAS 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea/.
+You can reach me via email /xxchai@kias.re.kr/ or you would like to visit me in person at /Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea/.
 
 [[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
 

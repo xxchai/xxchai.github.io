@@ -3,30 +3,20 @@
 
 I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Luen-fai Tam (co-advisor).
 
-       _Email:_ xxchai@kias.re.kr
+       _Email:_ xxchai AT kias.re.kr
 
-       _Address:_ Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
-
-       _Wechat(微信):_ [[https://chxiaoxn.github.io/wechat.jpg][Scan the QR Code]].
+       _Address:_ Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea.
 
 
 
-
-*Education*
-
-[[https://chxiaoxn.github.io/cv.pdf][Brief CV]] 
-
+*Education* (see [[https://chxiaoxn.github.io/cv.pdf][Brief CV]])
  - 2015 - 2018, PhD in Mathematics, The Chinese University of Hong Kong, HKSAR.
       - Supervisor: Prof. Martin Man-chun Li, Prof. Luen-fai Tam (co-advisor)
       - Thesis title: /Some aspects of the minimal surface theory/
  - 2012 - 2015, Master of Science, Tsinghua University, Beijing, China.
  - 2008 - 2012, Bachelor of Science, Sun Yat-sen University, Guangzhou, China.
-   
 
-
-*Research interests*
-
-[[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] 
+*Research interests* (see [[https://chxiaoxn.github.io/stmt.pdf][Research Statement]])
 
   1. geometrical problems related to general relativity;
   2. min-max theory of minimal surfaces;

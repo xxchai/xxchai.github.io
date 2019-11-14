@@ -1,6 +1,6 @@
+#+title: 柴小祥 (chai xiaoxiang)
 #+options: toc:nil
 #+OPTIONS: \n:t
-#+title: 柴小祥 (chai xiaoxiang)
 
 My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Luen-fai Tam (co-advisor).
 
@@ -38,6 +38,14 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 
 #+HTML: <br>
    
+*My KIAS activities*
+
+2. [[https://chxiaoxn.github.io/talk-visitors.html][Talks at KIAS invited by me]]
+2. [[https://sites.google.com/site/geometrykias/board][Riemannian and Complex Geometry Seminar at KIAS]]
+1. [[http://newton.kias.re.kr/~threeW/][Three W Seminar]]
+   
+#+HTML: <br>
+
 *Links*
 
 1. My PhD supervisor [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] (Chinese University of HK)

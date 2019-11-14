@@ -2,7 +2,9 @@
 #+options: toc:nil
 #+OPTIONS: \n:t
 
-/This is a page where talks mostly given by my visitors are documented. If you want to get information of talks hosted by me at [[http://www.kias.re.kr][KIAS]], please directly send me emails/ 
+/This is a page where talks mostly given by my visitors are documented. If you want to get notices of talks hosted by me at [[http://www.kias.re.kr][KIAS]], please directly send me emails. I will add you to the mail list./ 
+
+/If you would like to give a talk at KIAS, you are encouraged to send me emails to see whether we have common research interests./
 
 #+html: <h3>Coming Soon</h3> 
 /Last updated: Nov 14, 2019/

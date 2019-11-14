@@ -1,10 +1,26 @@
-#+title: Talks by my visitors 
+#+title: Talks Hosted by Me
 #+options: toc:nil
 #+OPTIONS: \n:t
 
+/This is a page where talks mostly given by my visitors are documented. If you want to get information of talks hosted by me at [[http://www.kias.re.kr][KIAS]], please directly send me emails/ 
+
+#+html: <h3>Coming Soon</h3> 
 /Last updated: Nov 14, 2019/
 
- - *Volume comparison with respect to scalar curvature*
-   - *Speaker* Prof. YUAN Wei(Sun Yat-sen U.)
-   - *Time and Place* 4:00 pm - 5:00 pm, Oct 30 (Wed.), 2019, Room 1424 
-   - *Abstract* In Riemannian geometry, volume comparison theorem is one of the most fundamental results. The classic results concern volume comparison involving restrictions on Ricci curvature. In this talk, we will investigate the volume comparison with respect to scalar curvature. In particular, we show that one can only expect such results for small geodesic balls of metrics near V-static metrics. As for closed manifolds, we give a volume comparison theorem for metrics near stable Einstein metrics. In particular, it provides partially affirmative answers to both a conjecture of Schoen about hyperbolic manifolds and a conjecture proposed by Bray concerning the positive scalar curvature case respectively.
+- _TBA_
+  + *Speaker* Dr. WU Peng (KIAS)
+  + *Time and Place* 4:00 pm - 5:00 pm, Nov 26 (Tue.) 2019, Room 1424 
+  + *Abstract* TBA
+    
+
+- _Convexity of energy function associated to the harmonic maps between surfaces_
+  + *Speaker* Dr. WAN Xueyuan (KIAS)
+  + *Time and Place* 4:00 pm - 5:00 pm, Nov 27 (Wed.) 2019, Room 1423 
+  + *Abstract* For a fixed smooth map $u_0$ between two Riemann surfaces $\Sigma$ and $S$ with non-zero degree, we consider the energy function  on Teichmuller space $\mathcal{T}$ of $\Sigma$  that assigns to a complex structure $t\in \mathcal{T}$ on $\Sigma$ the energy of the harmonic map $u_t:\Sigma_t:=(\Sigma,t) \to S$ homotopic to  $u_0$. We prove that the energy function is convex at its critical points. If $t_0\in\mathcal{T}$ is a critical point  such that  $du_{t_0}$   is never zero, then the energy function is strictly convex at this  point. As an application, in  the case that $u_0$ is a covering map, we prove that there exists a unique critical point $t_0\in \mathcal{T}$ minimizing the energy function.  Moreover, the energy density satisfies  $\frac{1}{2}|du|^2(t_0)\equiv 1$ and the Hessian of the energy function is positive definite at this point. 
+
+#+html: <h3>Past Seminars</h3>
+
+- _Volume comparison with respect to scalar curvature_
+  + *Speaker* Prof. YUAN Wei(Sun Yat-sen U.)
+  + *Time and Place* 4:00 pm - 5:00 pm, Oct 30 (Wed.) 2019, Room 1424 
+  + *Abstract* In Riemannian geometry, volume comparison theorem is one of the most fundamental results. The classic results concern volume comparison involving restrictions on Ricci curvature. In this talk, we will investigate the volume comparison with respect to scalar curvature. In particular, we show that one can only expect such results for small geodesic balls of metrics near V-static metrics. As for closed manifolds, we give a volume comparison theorem for metrics near stable Einstein metrics. In particular, it provides partially affirmative answers to both a conjecture of Schoen about hyperbolic manifolds and a conjecture proposed by Bray concerning the positive scalar curvature case respectively.

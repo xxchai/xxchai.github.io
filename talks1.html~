@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-11-14 Thu 21:54 -->
+<!-- 2019-11-14 Thu 20:26 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>柴小祥 (chai xiaoxiang)</title>
+<title>Talks Hosted by Me</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="chai xiaoxiang" />
 <style type="text/css">
@@ -229,85 +229,24 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">柴小祥 (chai xiaoxiang)</h1>
+<h1 class="title">Talks Hosted by Me</h1>
 <p>
-My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at <a href="http://kias.re.kr">Korea Institute for Advanced Study</a> (mentor: <a href="http://newton.kias.re.kr/~choe/">Prof. Choe Jaigyoung</a>). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were <a href="http://www.math.cuhk.edu.hk/~martinli/">Prof. Martin Man-chun Li</a> and Prof. Luen-fai Tam (co-advisor).<br />
+<i>If you want to get information of talks hosted by me at <a href="http://www.kias.re.kr">KIAS</a>, please directly send me emails</i> <br />
 </p>
 
-<br>
 
-<p>
-<span class="underline">Email:</span> xxchai AT kias.re.kr<br />
-</p>
 
-<p>
-<span class="underline">Address:</span> Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea.<br />
-</p>
+<h3>Coming Soon</h3> Last updated: Nov 14, 2019
+<h3>Past Seminars</h3>
 
-<br>
-
-<p>
-<b>Education</b> (see <a href="https://chxiaoxn.github.io/cv.pdf">Brief CV</a>)<br />
-</p>
 <ul class="org-ul">
-<li>2015 - 2018, PhD in Mathematics, The Chinese University of Hong Kong, HKSAR.<br />
+<li><b>Volume comparison with respect to scalar curvature</b><br />
 <ul class="org-ul">
-<li>Supervisor: Prof. Martin Man-chun Li, Prof. Luen-fai Tam (co-advisor)<br /></li>
-<li>Thesis title: <i>Some aspects of the minimal surface theory</i><br /></li>
+<li><b>Speaker</b> Prof. YUAN Wei(Sun Yat-sen U.)<br /></li>
+<li><b>Time and Place</b> 4:00 pm - 5:00 pm, Oct 30 (Wed.) 2019, Room 1424<br /></li>
+<li><b>Abstract</b> In Riemannian geometry, volume comparison theorem is one of the most fundamental results. The classic results concern volume comparison involving restrictions on Ricci curvature. In this talk, we will investigate the volume comparison with respect to scalar curvature. In particular, we show that one can only expect such results for small geodesic balls of metrics near V-static metrics. As for closed manifolds, we give a volume comparison theorem for metrics near stable Einstein metrics. In particular, it provides partially affirmative answers to both a conjecture of Schoen about hyperbolic manifolds and a conjecture proposed by Bray concerning the positive scalar curvature case respectively.<br /></li>
 </ul></li>
-<li>2012 - 2015, Master of Science, Tsinghua University, Beijing, China.<br /></li>
-<li>2008 - 2012, Bachelor of Science, Sun Yat-sen University, Guangzhou, China.<br /></li>
 </ul>
-
-<br>
-
-<p>
-<b>Research interests</b> (see <a href="https://chxiaoxn.github.io/stmt.pdf">Research Statement</a>)<br />
-</p>
-
-<ol class="org-ol">
-<li>geometrical problems related to general relativity;<br /></li>
-<li>min-max theory of minimal surfaces;<br /></li>
-<li>geometric flows;<br /></li>
-</ol>
-
-<br>
-
-<p>
-<b>Preprints/work in progress</b><br />
-</p>
-
-<ol class="org-ol">
-<li>Positive mass theorem and free boundary minimal surfaces. <a href="https://arxiv.org/abs/1811.06254">arXiv:1811.06254</a><br /></li>
-<li>Two quasi-local masses evaluated on surfaces with boundary. <a href="https://arxiv.org/abs/1811.06168">arXiv:1811.06168</a><br /></li>
-<li>Willmore type inequality using monotonicity formulas. <a href="https://arxiv.org/abs/1811.05617">arXiv:1811.05617</a><br /></li>
-<li>Evaluation of the mass of an asymptotically hyperbolic manifold. <a href="https://arxiv.org/abs/1811.09778">arXiv:1811.09778</a><br /></li>
-</ol>
-
-<br>
-
-<p>
-<b>My KIAS activities</b><br />
-</p>
-
-<ol class="org-ol">
-<li><a href="https://chxiaoxn.github.io/talks1.html">Talks hosted by me</a><br /></li>
-<li><a href="https://sites.google.com/site/geometrykias/board">Riemannian and Complex Geometry Seminar at KIAS</a><br /></li>
-<li><a href="http://newton.kias.re.kr/~threeW/">Three W Seminar</a><br /></li>
-</ol>
-
-<br>
-
-<p>
-<b>Links</b><br />
-</p>
-
-<ol class="org-ol">
-<li>My PhD supervisor <a href="http://www.math.cuhk.edu.hk/~martinli/">Prof. Martin Man-chun Li</a> (Chinese University of HK)<br /></li>
-<li>My master supervisor <a href="https://www.researchgate.net/profile/Jiaxin_Hu2">Prof. HU Jiaxin</a> (Tsinghua University)<br /></li>
-<li><a href="http://www.math.cuhk.edu.hk/~martinli/seminars.html">Joint Geometric analysis Seminar at CUHK</a><br /></li>
-<li><a href="http://www.math.miami.edu/~pengzim/">Prof. Pengzi Miao</a> (Miami University)<br /></li>
-</ol>
 </div>
 </body>
 </html>

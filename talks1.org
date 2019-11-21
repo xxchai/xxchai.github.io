@@ -1,6 +1,6 @@
 #+title: Talks Hosted by Me
 #+options: toc:nil
-#+OPTIONS: \n:t
+#+OPTIONS: \n:t H:1
 
 /This is a page where talks mostly given by my visitors are documented. If you want to get notices of talks hosted by me at [[http://www.kias.re.kr][KIAS]], please directly send me emails. I will add you to the mail list./ 
 
@@ -18,7 +18,7 @@
 
 - _Translating mean curvature equation and the area minimizing problem in the area minimizing problems_
   + *Speaker* Dr. ZHOU Hengyu (Chongqing U.)
-  + *Time and Place* TBA
+  + *Time and Place* 3:00 pm - 4:00 pm, Dec 2 (Mon.) 2019, Room 7323
   + *Abstract* In the talk we present a recent progress on the Plateau problem of minimal hypersurfaces in conformal cones. Here conformal cones are a generalization of Euclidean cones and the cones in warped product manifolds.  First we solve the Dirichlet problem of translating mean curvature equations under an NCM assumption.  This result will guarantee the existence of minimal graphs with graphical boundaries in conformal cones. Moreover we show that such graphs are area minimizing among all integer rectifiable currents compact supported in the cones with the same boundaries.  We will explain the NCM assumption is reasonable and should not be removed by Morgan’s results on area minimizing cones. (These results are from arXiv:1902.01512 and a joint work with Qiang Gao from Sun Yat-sen University.)
 
 #+HTML: <br>

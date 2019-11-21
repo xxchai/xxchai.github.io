@@ -7,7 +7,7 @@
 /If you would like to give a talk at KIAS, you are encouraged to send me emails to see whether we have common research interests./
 
 #+html: <h3>Coming Soon</h3> 
-/Last updated: Nov 18, 2019/
+/Last updated: Nov 21, 2019/
 
 - _Complex structures on Einstein four-manifolds of positive scalar curvature_
   + *Speaker* Dr. WU Peng (Shanghai Center of Math., Fudan)

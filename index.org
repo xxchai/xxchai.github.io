@@ -1,6 +1,7 @@
 #+title: 柴小祥 (chai xiaoxiang)
 #+options: toc:nil
 #+OPTIONS: \n:t
+#+OPTIONS: num:nil
 
 My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
 
@@ -10,6 +11,12 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 
        _Address:_ Room 1539, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
+#+HTML: <br>
+
+* _Coming Activities_
+
+- [[https://chxiaoxn.github.io/workshop-19-aug.html][A poor man's webpage of an coming workshop]]
+   
 #+HTML: <br>
 
 *Education* (see [[https://chxiaoxn.github.io/cv.pdf][Brief CV]])
@@ -29,6 +36,7 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 
 #+HTML: <br>
 
+
 *Publication*
 
   3. Willmore type inequality using monotonicity formulas. /Accepted in PJM/, [[https://arxiv.org/abs/1811.05617][arXiv:1811.05617]]
@@ -45,11 +53,12 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
    
 *My KIAS activities*
 
-2. [[https://chxiaoxn.github.io/talks1.html][Talks by my visitors]]
+3. [[https://chxiaoxn.github.io/talks1.html][Talks by my visitors]]
 2. [[https://sites.google.com/site/geometrykias/board][Riemannian and Complex Geometry Seminar at KIAS]]
 1. [[http://newton.kias.re.kr/~threeW/][Three W Seminar]]
    
 #+HTML: <br>
+
 
 *Links*
 

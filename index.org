@@ -13,11 +13,6 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 
 #+HTML: <br>
 
-* _Coming Activities_
-
-- [[https://chxiaoxn.github.io/workshop-19-aug.html][A poor man's webpage of an coming workshop]]
-   
-#+HTML: <br>
 
 *Education* (see [[https://chxiaoxn.github.io/cv.pdf][Brief CV]])
  - 2015 - 2018, PhD in Mathematics, The Chinese University of Hong Kong, HKSAR

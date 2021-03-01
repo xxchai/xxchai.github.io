@@ -42,7 +42,10 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 
   1. Positive mass theorem and free boundary minimal surfaces. [[https://arxiv.org/abs/1811.06254][arXiv:1811.06254]]
   2. Two quasi-local masses evaluated on surfaces with boundary. [[https://arxiv.org/abs/1811.06168][arXiv:1811.06168]]
-  4. Evaluation of the mass of an asymptotically hyperbolic manifold. [[https://arxiv.org/abs/1811.09778][arXiv:1811.09778]]
+  3. Evaluation of the mass of an asymptotically hyperbolic manifold. [[https://arxiv.org/abs/1811.09778][arXiv:1811.09778]]
+  4. A note on Minkowski formula of conformal Killing-Yano 2-forms. [[https://arxiv.org/abs/2101.08966][arXiv:2101.08966]]
+  5. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv:2102.08889]]
+  6. Mass and polyhedra in asymptotically hyperbolic manifold. [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]]
 
 #+HTML: <br>
    

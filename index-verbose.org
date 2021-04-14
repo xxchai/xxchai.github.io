@@ -3,7 +3,7 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
-My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor). See a verbose edition of this page https://chxiaoxn.github.io/index-verbose.html .
+My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor). 
 
 #+HTML: <br>
 

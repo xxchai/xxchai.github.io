@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2020-07-29 Wed 18:41 -->
+<!-- 2021-04-14 Wed 16:03 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>柴小祥 (chai xiaoxiang)</title>
@@ -160,6 +160,19 @@
   .footdef  { margin-bottom: 1em; }
   .figure { padding: 1em; }
   .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
   .inlinetask {
     padding: 10px;
     border: 2px solid gray;
@@ -184,7 +197,7 @@
 @licstart  The following is the entire license notice for the
 JavaScript code in this tag.
 
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
 
 The JavaScript code in this tag is free software: you can
 redistribute it and/or modify it under the terms of the GNU
@@ -232,9 +245,7 @@ for the JavaScript code in this tag.
 <p>
 My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at <a href="http://kias.re.kr">Korea Institute for Advanced Study</a> (mentor: Feb 2020 ~ now, <a href="https://www.researchgate.net/profile/Inkang_Kim">Prof. Inkang Kim</a>; Mar 2019 ~ Feb 2020, <a href="http://newton.kias.re.kr/~choe/">Prof. Choe Jaigyoung</a>). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were <a href="http://www.math.cuhk.edu.hk/~martinli/">Prof. Martin Man-chun Li</a> and Prof. Tam Luen-fai (co-advisor).<br />
 </p>
-
 <br>
-
 <p>
 <span class="underline">Email:</span> xxchai AT kias.re.kr<br />
 </p>
@@ -244,54 +255,6 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 </p>
 
 <br>
-
-<div id="outline-container-orgf29039b" class="outline-2">
-<h2 id="orgf29039b"><span class="underline">Coming Activities</span></h2>
-<div class="outline-text-2" id="text-orgf29039b">
-<ul class="org-ul">
-<li><a href="https://chxiaoxn.github.io/workshop-19-aug.html">A poor man's webpage of an coming workshop</a><br /></li>
-</ul>
-
-<br>
-
-<p>
-<b>Education</b> (see <a href="https://chxiaoxn.github.io/cv.pdf">Brief CV</a>)<br />
-</p>
-<ul class="org-ul">
-<li>2015 - 2018, PhD in Mathematics, The Chinese University of Hong Kong, HKSAR<br />
-<ul class="org-ul">
-<li>Supervisor: Prof. Martin Man-chun Li, Prof. Luen-fai Tam (co-advisor)<br /></li>
-<li>Thesis title: <i>Some aspects of the minimal surface theory</i><br /></li>
-</ul></li>
-<li>2012 - 2015, Master of Science, Tsinghua University, Beijing, China<br /></li>
-<li>2008 - 2012, Bachelor of Science, Sun Yat-sen University, Guangzhou, China<br /></li>
-</ul>
-
-<br>
-
-<p>
-<b>Research interests</b><br />
-</p>
-
-<ol class="org-ol">
-<li>geometrical problems related to general relativity;<br /></li>
-<li>min-max theory of minimal surfaces;<br /></li>
-<li>geometric flows;<br /></li>
-</ol>
-
-<br>
-
-
-<p>
-<b>Publication</b><br />
-</p>
-
-<ol class="org-ol">
-<li>Willmore type inequality using monotonicity formulas. <i>Accepted in PJM</i>, <a href="https://arxiv.org/abs/1811.05617">arXiv:1811.05617</a><br /></li>
-</ol>
-
-<br>
-
 <p>
 <b>Preprints/work in progress</b><br />
 </p>
@@ -300,22 +263,19 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 <li>Positive mass theorem and free boundary minimal surfaces. <a href="https://arxiv.org/abs/1811.06254">arXiv:1811.06254</a><br /></li>
 <li>Two quasi-local masses evaluated on surfaces with boundary. <a href="https://arxiv.org/abs/1811.06168">arXiv:1811.06168</a><br /></li>
 <li>Evaluation of the mass of an asymptotically hyperbolic manifold. <a href="https://arxiv.org/abs/1811.09778">arXiv:1811.09778</a><br /></li>
+<li>A note on Minkowski formula of conformal Killing-Yano 2-forms. <a href="https://arxiv.org/abs/2101.08966">arXiv:2101.08966</a><br /></li>
+<li>Asymptotically hyperbolic manifold with a horospherical boundary. <a href="https://arxiv.org/abs/2102.08889">arXiv:2102.08889</a><br /></li>
+<li>Mass and polyhedra in asymptotically hyperbolic manifold. <a href="https://arxiv.org/abs/2102.10715">arXiv:2102.10715</a><br /></li>
+<li>(with Inkang Kim) Scalar curvature, mean curvature and harmonic maps to the circle.  <a href="https://arxiv.org/abs/2103.09737">arxiv:2103.09737</a><br /></li>
 </ol>
 
-<br>
-
 <p>
-<b>My KIAS activities</b><br />
+<b>Publication</b><br />
 </p>
 
 <ol class="org-ol">
-<li><a href="https://chxiaoxn.github.io/talks1.html">Talks by my visitors</a><br /></li>
-<li><a href="https://sites.google.com/site/geometrykias/board">Riemannian and Complex Geometry Seminar at KIAS</a><br /></li>
-<li><a href="http://newton.kias.re.kr/~threeW/">Three W Seminar</a><br /></li>
+<li>Willmore type inequality using monotonicity formulas. <i>Accepted in PJM</i>, <a href="https://arxiv.org/abs/1811.05617">arXiv:1811.05617</a><br /></li>
 </ol>
-
-<br>
-
 
 <p>
 <b>Links</b><br />
@@ -327,8 +287,6 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 <li><a href="http://www.math.cuhk.edu.hk/~martinli/seminars.html">Joint Geometric analysis Seminar at CUHK</a><br /></li>
 <li><a href="http://www.math.miami.edu/~pengzim/">Prof. Pengzi Miao</a> (Miami University)<br /></li>
 </ol>
-</div>
-</div>
 </div>
 </body>
 </html>

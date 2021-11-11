@@ -2,8 +2,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns="http://www.w3.org/1999/xhtml" xmlns:x="https://www.texmacs.org/2002/extensions">
   <head>
-    <title>Generalized Hawking mass with boundary</title>
-    <meta content="TeXmacs 1.99.19" name="generator"></meta>
+    <title>No title</title>
+    <meta content="TeXmacs 2.1" name="generator"></meta>
     <style type="text/css">
       body { text-align: justify } h5 { display: inline; padding-right: 1em }
       h6 { display: inline; padding-right: 1em } table { border-collapse:
@@ -31,51 +31,106 @@
     <script language="javascript" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
   <body>
-    <table class="title-block" style="margin-bottom: 2em">
-      <tr>
-        <td><p>
-          
-        </p><table class="title-block" style="margin-top: 69.924904489704px">
-          <tr>
-            <td><strong>GENERALIZED HAWKING MASS WITH BOUNDARY</strong></td>
-          </tr>
-        </table></td>
-      </tr>
-    </table>
     <p>
-      <font color="brown"><em>Wed, Apr 14, 2021</em></font> Xiaoxiang Chai
+      Christodoulou-Yau estimate for the Willmore energy of surface with
+      boundary
     </p>
     <p>
-      <b>Generalized Hawking mass with boundary</b> is the following
+      
     </p>
-    <table width="100%">
+    <p>
+      
+    </p>
+    <p style="margin-top: 1em">
+      <strong>Definition <class style="font-style: normal">1</class>. </strong><i>A capillary CMC
+      surface is said to be stable if for any \(f \in C^{\infty}
+      (\bar{\Sigma})\) with \(\int_{\Sigma} f = 0\) satisfies</i>
+    </p>
+    <i><table width="100%">
       <tr>
-        <td width="100%" align="center">\(\displaystyle m_H (S) = \sqrt{|S|} (8 \pi \chi (S)
-        - \int_S (H^2 + \tfrac{2}{3} \Lambda_1) -
-\int_{\partial S}
-        \tfrac{4}{3} \Lambda_2) .\)</td>
+        <td width="100%" align="center">\(\displaystyle \int_{\Sigma} (| \nabla f|^2 -
+        (|A|^2 + {\text{Ric}} (N, N)) f^2) -
+\int_{\partial \Sigma} Qf^2
+        \geqslant 0 ,\)</td>
         <td align="right">(1)</td>
       </tr>
-    </table>
+    </table></i>
     <p>
-      Suppose that \(S\) sits inside a 3-manifold \(M\) with boundary,
-      \(\partial S\) is nonempty, \(R_M \geqslant \Lambda_1\) and
-      \(H_{\partial M} \geqslant \Lambda_2\). We show a Christodoulou-Yau
-      estimate.
+      <i>where on \(\partial \Sigma \cap M\),</i>
+    </p>
+    <div style="margin-bottom: 1em">
+      <i><table width="100%">
+        <tr>
+          <td width="100%" align="center">\(\displaystyle Q = \frac{1}{\sin \gamma} 
+          \hspace{0.17em} B (\bar{\nu}, \bar{\nu}) + \cot
+\gamma A (\nu, \nu)
+          .\)</td>
+          <td align="right">(2)</td>
+        </tr>
+      </table></i>
+    </div>
+    <p>
+      The figure is from [<a href="#bib-li-polyhedron-2020">Li20</a>].
     </p>
     <p>
-      Let \(S\) be a volume preserving stable surface with free boundary. From
-      second variation, we have that
+      <img class="image" src="hawking-free-boundary-general-1.png" width="100%"></img>
+    </p>
+    <p>
+      We follow [<a href="#bib-christodoulou-remarks-1988">CY88</a>]. Let \(\tilde{\Sigma}\) be a compact
+      Riemann surface from \(\Sigma\) by attaching a conformal disc at any
+      connected component of \(\partial M\). Then there exists a non-constant
+      holomorphic map \(\widetilde{\psi :} \tilde{\Sigma} \to \mathbb{S}^2\)
+      such that
     </p>
     <table width="100%">
       <tr>
-        <td width="100%" align="center">\(\displaystyle \int_S | \nabla f|^2 -
-        (\operatorname{Ric}(\nu) + |A|^2) f^2 - \int_{\partial
-S} B (\nu, \nu)
-        f^2 \geqslant 0. \)</td>
-        <td align="right">(2)</td>
+        <td width="100%" align="center">\(\displaystyle \deg (\tilde{\psi}) \leqslant
+        [\tfrac{g + 3}{2}],\)</td>
+        <td align="right">(3)</td>
       </tr>
     </table>
+    <p>
+      where \([x]\) denotes the greatest integer less than or equal to \(x\).
+      Let \(\psi\) be the restriction to \(\Sigma\). Composing \(\psi\) with a
+      conformal diffeomorphism of \(\mathbb{S}^2\) we can assume that
+    </p>
+    <table width="100%">
+      <tr>
+        <td width="100%" align="center">\(\displaystyle \int_{\Sigma} \psi_i = 0, i = 1, 2,
+        3,\)</td>
+        <td align="right">(4)</td>
+      </tr>
+    </table>
+    <p>
+      where each \(\psi_i\) is a coordinate function of \(\psi\). We have
+      first that
+    </p>
+    <table width="100%">
+      <tr>
+        <td width="100%" align="center">\(\displaystyle \sum_i \int_{\Sigma} | \nabla \psi_i
+        |^2 \leqslant \int_{\tilde{\Sigma}} |
+\nabla \tilde{\psi} |^2
+        \leqslant 8 \pi \deg (\tilde{\psi}) \leqslant 8 \pi
+[\tfrac{g + 3}{2}]
+        .\)</td>
+        <td align="right">(5)</td>
+      </tr>
+    </table>
+    <p>
+      Summing up we have
+    </p>
+    <table width="100%">
+      <tr>
+        <td width="100%" align="center">\(\displaystyle \sum_{i = 1}^3 \int_{\Sigma} |
+        \nabla \psi_i |^2 \geqslant \int_{\Sigma}
+(|A|^2 + {\text{Ric}} (N,
+        N)) f^2 + \int_{\partial \Sigma} Q. \)</td>
+        <td align="right">(6)</td>
+      </tr>
+    </table>
+    <p>
+      
+    </p>
     <p>
       Using Schoen-Yau trick, we have that
     </p>
@@ -85,119 +140,85 @@ S} B (\nu, \nu)
         \tfrac{1}{2} R_M + \tfrac{1}{2} |A^o |^2 +
 \tfrac{3}{4} H^2 -
         K.\)</td>
-        <td align="right">(3)</td>
-      </tr>
-    </table>
-    <p>
-      We have also along \(\partial S\) using the free boundary condition that
-    </p>
-    <table width="100%">
-      <tr>
-        <td width="100%" align="center">\(\displaystyle B (\nu, \nu) = H_{\partial M} -
-        H_{\partial S} = H_{\partial M} - \kappa .\)</td>
-        <td align="right">(4)</td>
-      </tr>
-    </table>
-    <p>
-      We have a triple \(\psi_i\) with \(i = 1, 2, 3\) such that \(\int_S
-      \psi_i = 0\), \(\sum_i \psi_i^2 = 1\), \(\int_S | \nabla \psi_i |^2 = 8
-      \pi \deg (\psi)\), we assume that \(S\) is a disc, so
-    </p>
-    <table width="100%">
-      <tr>
-        <td width="100%" align="center">\(\displaystyle \deg (\psi) \leqslant \tfrac{[g +
-        3]}{2} = 1.\)</td>
-        <td align="right">(5)</td>
-      </tr>
-    </table>
-    <p>
-      See [Ros and Vergasta, 1995]
-    </p>
-    <p>
-      With the lower bounds on \(R_M\) and \(H_{\partial M}\), we have
-    </p>
-    <table width="100%">
-      <tr>
-        <td width="100%" align="center">\(\displaystyle 8 \pi \geqslant \int_S \tfrac{1}{2}
-        \Lambda_1 + \tfrac{3}{4} H^2 +
-\int_{\partial S} \Lambda_2 + (\int_S K
-        + \int_{\partial S} \kappa) .\)</td>
-        <td align="right">(6)</td>
-      </tr>
-    </table>
-    <p>
-      Using Gauss-Bonnet theorem, we have that
-    </p>
-    <table width="100%">
-      <tr>
-        <td width="100%" align="center">\(\displaystyle 8 \pi \geqslant 2 \pi + \tfrac{3}{4}
-        \int_S (H^2 + \tfrac{2}{3} \Lambda_1) +
-\int_{\partial S} \Lambda_2
-        .\)</td>
         <td align="right">(7)</td>
       </tr>
     </table>
     <p>
-      So we have that
+      From [<a href="#bib-li-polyhedron-2020">Li20</a>, (3.8)],
     </p>
     <table width="100%">
       <tr>
-        <td width="100%" align="center">\(\displaystyle 8 \pi - \int_S (H^2 + \tfrac{2}{3}
-        \Lambda_1) - \int_{\partial S} \tfrac{4}{3}
-\Lambda_2 \geqslant
-        0.\)</td>
+        <td width="100%" align="center">\(\displaystyle \sin \gamma (\tfrac{1}{\sin \gamma}
+        B (\bar{\nu}, \bar{\nu}) + \cot \gamma A
+(\nu, \nu) + \kappa) =
+        H_{\partial M} = \sin \gamma (Q + \kappa) .\)</td>
         <td align="right">(8)</td>
       </tr>
     </table>
     <p>
-      So we see that the Hawking mass
+      Inserting these relations into right hand of (<a href="#stability with hersch">6</a>), we have
+    </p>
+    <center>
+      \(\displaystyle \begin{array}{rl}
+  & \sum_{i = 1}^3 \int_{\Sigma} |
+      \nabla \phi_i |^2\\
+  \geqslant & \int_{\Sigma} \tfrac{1}{2} \Lambda_1 +
+      \tfrac{3}{4} H^2 - K +
+  \int_{\partial \Sigma} \tfrac{H}{\sin \gamma} -
+      \kappa\\
+  \geqslant & \tfrac{3}{4} \left( \int_{\Sigma} H^2 +
+      \tfrac{2}{3} \Lambda_1 +
+  \int_{\partial \Sigma} \tfrac{4}{3 \sin
+      \gamma} \Lambda_2 \right) - 2 \pi
+  \chi (\Sigma),
+\end{array}\)
+    </center>
+    <p>
+      where we have used lower bounds on \(R_M \geqslant \Lambda_1\),
+      \(H_{\partial M} \geqslant \Lambda_2\) and Gauss-Bonnet theorem with a
+      boundary. So
     </p>
     <table width="100%">
       <tr>
-        <td width="100%" align="center">\(\displaystyle | \Sigma |^{\tfrac{1}{2}} \left( 1 -
-        \tfrac{1}{8 \pi} \int_S (H^2 +
-\tfrac{2}{3} \Lambda_1) - \tfrac{1}{8
-        \pi} \int_{\partial S} \tfrac{4}{3}
-\Lambda_2 \right) \geqslant
-        0.\)</td>
+        <td width="100%" align="center">\(\displaystyle \tfrac{3}{4} \int_{\Sigma} H^2 +
+        \tfrac{1}{2} \Lambda_1 | \Sigma | +
+\tfrac{1}{\sin \gamma} \Lambda_2 |
+        \partial \Sigma | \leqslant 2 \pi \chi
+(\Sigma) + 8 \pi [\tfrac{g +
+        3}{2}] .\)</td>
         <td align="right">(9)</td>
       </tr>
     </table>
-    <p>
-      The examples of ambient \(M\) are Euclidean balls, hyperbolic balls,
-      horoballs, constant mean curvature surfaces and even \(B^2 \times
-      \mathbb{S}^1\).
-    </p>
-    <p>
-      There are several questions related to the Hawking mass, we name a few.
-    </p>
-    <p>
-      <b>Question</b> For a disc \(S\) whose boundary lies in a timelike
-      hypersurface, the spacetime Hawking energy with free boundary seems to
-      be given by the following
-    </p>
-    <table width="100%">
-      <tr>
-        <td width="100%" align="center">\(\displaystyle |S|^{\tfrac{1}{2}} (1 - \tfrac{1}{8
-        \pi} \int_S | \vec{H} |^2)\)</td>
-        <td align="right">(10)</td>
-      </tr>
-    </table>
-    <p>
-      where \(\vec{H}\) is the mean curvature vector in spacetime. How to
-      adapt the definition to the boundary case?
-    </p>
-    <p>
-      <b>Question</b> What is the capillary version of the Hawking mass?
-    </p>
-    <p>
-      <b>Question</b> What if the boundary \(\partial S\) has corners? For
-      example \(S\) sits in a linear cone.
-    </p>
-    <p>
-      <b>Question</b> Is there any Li-Yau number like \(8 \pi\) which divides
-      embeddeness?
-    </p>
+    <h2 id="auto-1">Bibliography</h2>
+    <div class="compact-block" style="text-indent: 0em">
+      <font style="font-size: 84.0%"><dl>
+        <p>
+          <dt>
+            [CY88] 
+          </dt>
+          <dd>
+            <p>
+              <a id="bib-christodoulou-remarks-1988"></a>D. Christodoulou and S.-T. Yau. Some remarks on the
+              quasi-local mass. In James A. Isenberg, editor, <i>Contemporary
+              Mathematics</i>, volume 71, pages 9&ndash;14. American
+              Mathematical Society, Providence, Rhode Island, 1988.
+            </p>
+          </dd>
+        </p>
+        <p>
+          <dt>
+            [Li20] 
+          </dt>
+          <dd>
+            <p>
+              <a id="bib-li-polyhedron-2020"></a>Chao Li. A polyhedron comparison theorem for
+              3-manifolds with positive scalar curvature. <i>Invent.
+              Math.</i>, 219(1):1&ndash;37, 2020.
+            </p>
+          </dd>
+        </p>
+      </dl></font>
+    </div>
     <p>
       
     </p>

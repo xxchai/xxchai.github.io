@@ -19,10 +19,12 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
   5. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv:2102.08889]]
   6. Mass and polyhedra in asymptotically hyperbolic manifold. [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]]
   7. (with /Inkang Kim/) Scalar curvature, mean curvature and harmonic maps to the circle.  [[https://arxiv.org/abs/2103.09737][arxiv:2103.09737]]
+  8. A perturbation of spacetime Laplacian equation. [[https://arxiv.org/abs/2107.12784][arXiv:2107.12784]]
+  9. Hypersurfaces of prescribed null expansion [[https://arxiv.org/abs/2107.12782][arXiv:2107.12782]]
 
 *Publication*
 
-  3. Willmore type inequality using monotonicity formulas. /Accepted in PJM/, [[https://arxiv.org/abs/1811.05617][arXiv:1811.05617]]
+  3. Willmore type inequality using monotonicity formulas. PJM. [[https://arxiv.org/abs/1811.05617][arXiv:1811.05617]]
      
 *Notes*
   1. [[https://chxiaoxn.github.io/hawking-free-boundary-general.html][Generalized Hawking mass]]

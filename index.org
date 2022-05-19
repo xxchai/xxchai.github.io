@@ -11,13 +11,13 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
        Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
 #+HTML: <br>
-*Publication*
+* Publication
 
   3. Willmore type inequality using monotonicity formulas. Pacific J. Math. [[https://arxiv.org/abs/1811.05617][arXiv]]
   3. Evaluation of the mass of an asymptotically hyperbolic manifold. Accepted in J. Geometric Analysis. [[https://arxiv.org/abs/1811.09778][arXiv]]
   7. (with /Inkang Kim/) Scalar curvature, mean curvature and harmonic maps to the circle. Accepted in Ann. Global Analysis and Geometry.  [[https://arxiv.org/abs/2103.09737][arXiv]]
  
-*Preprints*
+* Preprints
 
   1. Positive mass theorem and free boundary minimal surfaces. [[https://arxiv.org/abs/1811.06254][arXiv]]
   2. Two quasi-local masses evaluated on surfaces with boundary. [[https://arxiv.org/abs/1811.06168][arXiv]]
@@ -27,11 +27,12 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
   6. A perturbation of spacetime Laplacian equation. [[https://arxiv.org/abs/2107.12784][arXiv]]
   7. Hypersurfaces of prescribed null expansion. [[https://arxiv.org/abs/2107.12782][arXiv]]
   8. Inverse mean curvature flow with a free boundary in hyperbolic space. [[https://arxiv.org/abs/2203.08467][arXiv]]
+  9. A curvature estimate for stable marginally outer trapped hypersurface with a free boundary. [[https://arxiv.org/abs/2205.05890v1][arXiv]] 
     
-*Notes*
+* Notes
   1. [[https://chxiaoxn.github.io/hawking-free-boundary-general.html][Generalized Hawking mass]]
 
-*Links*
+* Links
 
 1. My PhD supervisor [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] (Chinese University of HK)
 2. My master supervisor [[https://www.researchgate.net/profile/Jiaxin_Hu2][Prof. HU Jiaxin]] (Tsinghua University) 

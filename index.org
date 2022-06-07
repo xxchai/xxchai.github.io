@@ -19,6 +19,8 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
  
 * Preprints
 
+  10. (with /Xueyuan Wan) Band width estimates of CMC initial data sets [[ https://arxiv.org/abs/2206.02624][arXiv]]
+      (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]])
   9. A curvature estimate for stable marginally outer trapped hypersurface with a free boundary. [[https://arxiv.org/abs/2205.05890v1][arXiv]] 
   8. Inverse mean curvature flow with a free boundary in hyperbolic space. [[https://arxiv.org/abs/2203.08467][arXiv]]
   4. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv]]

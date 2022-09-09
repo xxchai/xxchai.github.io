@@ -21,7 +21,6 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 
   1. (with /Gaoming Wang/) Dihedral rigidity in hyperbolic 3-space [[https://arxiv.org/abs/2208.03859][arXiv]]
      (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
-     o
   1. (with /Xueyuan Wan/) Band width estimates of CMC initial data sets [[https://arxiv.org/abs/2206.02624][arXiv]]
      (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]])
   2. (with /Xueyuan Wan/) The mass of an asymptotically hyperbolic end and distance estimates [[https://arxiv.org/abs/2207.06141][arXiv]]
@@ -34,7 +33,7 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
     
 * Notes
   1. [[https://chxiaoxn.github.io/hawking-free-boundary-general.html][Generalized Hawking mass]]
-  2. [[file:Jang_s_equation_and_free_boundary_MOTS.pdf][A draft (with Martin Li) on the existence of free boundary marginally outer trapped surfaces]] (personal use)
+  2. [[https://chxiaoxn.github.io/Jang_s_equation_and_free_boundary_MOTS.pdf][A draft (with Martin Li) on the existence of free boundary marginally outer trapped surfaces]] (personal use)
 
 * Links
 

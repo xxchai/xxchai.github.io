@@ -4,7 +4,9 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
-My name is chai xiaoxiang (chai is the family name). I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
+*My name is* *_CHAI Xiaoxiang_*. *I am working in minimal surface and related topics. Current I am looking for another postdoc job. Please see my* [[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] *and* [[https://chxiaoxn.github.io/cv.pdf][CV]].
+
+ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
 #+HTML: <br>
        Email: xxchai AT kias.re.kr
 
@@ -13,12 +15,14 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
 #+HTML: <br>
 * Publication
 
-  3. Willmore type inequality using monotonicity formulas. Pacific J. Math. [[https://arxiv.org/abs/1811.05617][arXiv]] 
-  3. Evaluation of the mass of an asymptotically hyperbolic manifold. Accepted in J. Geometric Analysis. [[https://arxiv.org/abs/1811.09778][arXiv]]
-  7. (with /Inkang Kim/) Scalar curvature, mean curvature and harmonic maps to the circle. Accepted in Ann. Global Analysis and Geometry.  [[https://arxiv.org/abs/2103.09737][arXiv]]
- 
+  1. Willmore type inequality using monotonicity formulas. Pacific Journal of Mathematics, *307* (1), 53-62, (2020). [[https://arxiv.org/abs/1811.05617][arXiv]]
+  2. Evaluation of the mass of an asymptotically hyperbolic manifold. The Journal of Geometric Analysis, *32* (7), 1-18, (2022). [[https://arxiv.org/abs/1811.09778][arXiv]]
+  3. (with Inkang Kim) Scalar curvature, mean curvature and harmonic maps to the circle. Annals of Global Analysis and Geometry, *62*, 201–219 (2022). [[https://arxiv.org/abs/2103.09737][arXiv]]
+
 * Preprints
 
+  2. [[https://chxiaoxn.github.io/fb-mots.pdf][(with Martin Li) A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces]] 
+  3. [[https://chxiaoxn.github.io/tilt-spacetime-positive-mass-theorem.pdf][A tilted spacetime positive mass theorem]], 2022. 
   1. (with /Gaoming Wang/) Dihedral rigidity in hyperbolic 3-space [[https://arxiv.org/abs/2208.03859][arXiv]]
      (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
   1. (with /Xueyuan Wan/) Band width estimates of CMC initial data sets [[https://arxiv.org/abs/2206.02624][arXiv]]
@@ -32,9 +36,8 @@ My name is chai xiaoxiang (chai is the family name). I am currently a research f
   9. A note on Minkowski formula of conformal Killing-Yano 2-forms. [[https://arxiv.org/abs/2101.08966][arXiv]]
     
 * Notes
+
   1. [[https://chxiaoxn.github.io/hawking-free-boundary-general.html][Generalized Hawking mass]]
-  2. [[https://chxiaoxn.github.io/Jang_s_equation_and_free_boundary_MOTS.pdf][A draft (with Martin Li) on the existence of free boundary marginally outer trapped surfaces]] (personal use)
-  3. [[https://chxiaoxn.github.io/tilt-spacetime-positive-mass-theorem.pdf][A tilted spacetime positive mass theorem]] (a recent work)
 
 * Links
 

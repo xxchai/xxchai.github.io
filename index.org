@@ -17,8 +17,9 @@
 
   1. Willmore type inequality using monotonicity formulas. Pacific Journal of Mathematics, *307* (1), 53-62, (2020). [[https://arxiv.org/abs/1811.05617][arXiv]]
   2. Evaluation of the mass of an asymptotically hyperbolic manifold. The Journal of Geometric Analysis, *32* (7), 1-18, (2022). [[https://arxiv.org/abs/1811.09778][arXiv]]
-  3. (with Inkang Kim) Scalar curvature, mean curvature and harmonic maps to the circle. Annals of Global Analysis and Geometry, *62*, 201–219 (2022). [[https://arxiv.org/abs/2103.09737][arXiv]]
+  3. (with /Inkang Kim/) Scalar curvature, mean curvature and harmonic maps to the circle. Annals of Global Analysis and Geometry, *62*, 201–219 (2022). [[https://arxiv.org/abs/2103.09737][arXiv]]
   2. (with /Xueyuan Wan/) The mass of an asymptotically hyperbolic end and distance estimates. /Accepted in Journal of Mathematical Physics/. [[https://arxiv.org/abs/2207.06141][arXiv]]
+
 * Preprints
 
   2. [[https://chxiaoxn.github.io/fb-mots.pdf][(with Martin Li) A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces]] 

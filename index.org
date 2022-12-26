@@ -4,9 +4,9 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
-*My name is* *_CHAI Xiaoxiang_*. *I am working in minimal surface and related topics. Current I am looking for another postdoc job. Please see my* [[https://chxiaoxn.github.io/stmt.pdf][Research Statement]] *and* [[https://chxiaoxn.github.io/cv.pdf][CV]].
+(Starting from March 1, I will be a BK21 postdoctoral fellow working with [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]] in POSTECH)
 
- I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
+I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
 #+HTML: <br>
        Email: xxchai AT kias.re.kr
 

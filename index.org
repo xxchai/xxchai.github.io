@@ -1,16 +1,20 @@
-#+title: 柴小祥 (chai xiaoxiang)
+#+title: 柴小祥 
 #+options: toc:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
-(Starting from March 1, I will be a BK21 postdoctoral fellow working with [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]] in POSTECH)
+My name is Chai Xiaoxiang (Chinese characthers: 柴小祥; Hangul: 차이 샤오샹).
+I am a BK21 postdoctoral fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) in POSTECH.
 
-I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ now, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
+I was currently a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
 #+HTML: <br>
-       Email: xxchai AT kias.re.kr
-
+        
+       Email: xxchai AT kias.re.kr (/you can reach me via xxchai AT postech.ac.kr email; but because I use an email client which does not support POSTECH email well, I am going to stick with my previsou KIAS email/)
+       Address: Room 316, Department of Mathematics, POSTECH, Pohang, Korea
+#+begin_comment
        Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
+#+end_comment
 
 #+HTML: <br>
 * Publication
@@ -22,9 +26,9 @@ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Adv
 
 * Preprints
 
-  1. [[https://chxiaoxn.github.io/fb-mots.pdf][(with Martin Li) A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces]] 
+  1. [[https://chxiaoxn.github.io/fb-mots.pdf][(with /Martin Li/) A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces]] 
   2. [[https://chxiaoxn.github.io/tilt-spacetime-positive-mass-theorem.pdf][A tilted spacetime positive mass theorem]], 2022. 
-  3. (with Gaoming Wang) [[https://chxiaoxn.github.io/rigidity-of-region-bounded-by-standard-sphere.pdf][Scalar curvature comparison theorem of weakly convex rotationally symmetric sets]], 2022. 
+  3. (with /Gaoming Wang/) [[https://chxiaoxn.github.io/rigidity-of-region-bounded-by-standard-sphere.pdf][Scalar curvature comparison theorem of weakly convex rotationally symmetric sets]], 2022. (/newer version available upon request/)
   4. (with /Gaoming Wang/) Dihedral rigidity in hyperbolic 3-space [[https://arxiv.org/abs/2208.03859][arXiv]]
      (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
   5. (with /Xueyuan Wan/) Band width estimates of CMC initial data sets [[https://arxiv.org/abs/2206.02624][arXiv]]
@@ -42,7 +46,6 @@ I am currently a research fellow at [[http://kias.re.kr][Korea Institute for Adv
 
 * Links
 
-1. My PhD supervisor [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] (Chinese University of HK)
 2. My master supervisor [[https://www.researchgate.net/profile/Jiaxin_Hu2][Prof. HU Jiaxin]] (Tsinghua University) 
 3. [[http://www.math.cuhk.edu.hk/~martinli/seminars.html][Joint Geometric analysis Seminar at CUHK]]
-5. [[http://www.math.miami.edu/~pengzim/][Prof. Pengzi Miao]] (Miami University)
+5. [[http://www.math.miami.edu/~pengzim/][Prof. MIAO Pengzi]] (Miami University)

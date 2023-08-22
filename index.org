@@ -7,7 +7,7 @@
 My name is Chai Xiaoxiang (Chinese characthers: 柴小祥; Hangul: 차이 샤오샹).
 I am a BK21 postdoctoral fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) in POSTECH.
 
-I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentor: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
+I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentors: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
 #+HTML: <br>
         
        Email: xxchai AT kias.re.kr (or postech.ac.kr; however, KIAS email is preferred)
@@ -19,8 +19,10 @@ I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Stu
 #+HTML: <br>
 * Publication
 
-  6. A curvature estimate for stable marginally outer trapped hypersurface with a free boundary. /Accepted in IMRN/. [[https://arxiv.org/abs/2205.05890v1][arXiv]] 
-  2. (with /Xueyuan Wan/) The mass of an asymptotically hyperbolic end and distance estimates. /Accepted in Journal of Mathematical Physics/. [[https://arxiv.org/abs/2207.06141][arXiv]]
+  4. (with /Gaoming Wang/) Dihedral rigidity in hyperbolic 3-space. /Accepted in Tran. AMS./ [[https://arxiv.org/abs/2208.03859][arXiv]]
+     (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
+  6. A curvature estimate for stable marginally outer trapped hypersurface with a free boundary. /IMRN/ rnad115. [[https://arxiv.org/abs/2205.05890v1][arXiv]] 
+  2. (with /Xueyuan Wan/) The mass of an asymptotically hyperbolic end and distance estimates. /J. of Math. Phys./ *63* (2022), no. 12, Paper No. 122502. [[https://arxiv.org/abs/2207.06141][arXiv]]
   3. (with /Inkang Kim/) Scalar curvature, mean curvature and harmonic maps to the circle. Annals of Global Analysis and Geometry, *62*, 201–219 (2022). [[https://arxiv.org/abs/2103.09737][arXiv]]
   2. Evaluation of the mass of an asymptotically hyperbolic manifold. The Journal of Geometric Analysis, *32* (7), 1-18, (2022). [[https://arxiv.org/abs/1811.09778][arXiv]]
   1. Willmore type inequality using monotonicity formulas. Pacific Journal of Mathematics, *307* (1), 53-62, (2020). [[https://arxiv.org/abs/1811.05617][arXiv]]
@@ -30,8 +32,6 @@ I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Stu
   1. (with /Martin Li/) A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces. (preprints available upon query) 
   2. A tilted spacetime positive mass theorem, [[https://arxiv.org/abs/2304.05208][arXiv]]. 
   3. (with /Gaoming Wang/) Scalar curvature comparison of rotationally symmetric sets. [[https://arxiv.org/abs/2304.13152][arXiv]]
-  4. (with /Gaoming Wang/) Dihedral rigidity in hyperbolic 3-space [[https://arxiv.org/abs/2208.03859][arXiv]]
-     (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
   5. (with /Xueyuan Wan/) Band width estimates of CMC initial data sets [[https://arxiv.org/abs/2206.02624][arXiv]]
      (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]])
   7. Inverse mean curvature flow with a free boundary in hyperbolic space. [[https://arxiv.org/abs/2203.08467][arXiv]]

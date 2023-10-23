@@ -30,7 +30,7 @@ I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Stu
 * Preprints
 
   1. (with /Martin Li/) A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces. (preprints available upon query) 
-  2. (with /Juncheol Pyo, Xueyuan Wang/) Spectral constant rigidity of warped product metrics. [[http://arxiv.org/abs/2310.13329][arxiv]]
+  2. (with /Juncheol Pyo, Xueyuan Wan/) Spectral constant rigidity of warped product metrics. [[http://arxiv.org/abs/2310.13329][arxiv]]
   3. A tilted spacetime positive mass theorem, [[https://arxiv.org/abs/2304.05208][arXiv]] 
   4. (with /Gaoming Wang/) Scalar curvature comparison of rotationally symmetric sets. [[https://arxiv.org/abs/2304.13152][arXiv]]
   5. (with /Xueyuan Wan/) Band width estimates of CMC initial data sets [[https://arxiv.org/abs/2206.02624][arXiv]]

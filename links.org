@@ -1,0 +1,14 @@
+#+title: Links
+#+options: toc:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+OPTIONS: \n:t
+#+OPTIONS: num:nil
+
+
+  - [[https://www.researchgate.net/profile/Jiaxin_Hu2][Prof. HU Jiaxin]] (My master thesis advisor at Tsinghua University) 
+  - [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Li Martin Man-chun]] (CUHK)
+  - [[http://newton.kias.re.kr/~choe/][Prof. CHOE Jaigyoung]] (KIAS)
+  - [[https://www.researchgate.net/profile/Inkang_Kim][Prof. KIM Inkang]] (KIAS)
+  - [[http://www.math.miami.edu/~pengzim/][Prof. MIAO Pengzi]] (Miami University)
+  - [[https://msrc.cqut.edu.cn/info/1018/1571.htm][Wan Xueyuan]] (Chongqing U. of Technology)
+  - [[https://gaomw.com/][Wang Gaoming]] (Tsinghua U.)

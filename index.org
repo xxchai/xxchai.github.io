@@ -1,14 +1,13 @@
-#+title: 柴小祥 
+#+title: 柴小祥
 #+options: toc:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
 My name is Chai Xiaoxiang (Chinese characthers: 柴小祥; Hangul: 차이 샤오샹).
-I am a BK21 postdoctoral fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) in POSTECH. 
+I am a BK21 research fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) in POSTECH. 
 
 I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentors: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
-#+HTML: <br>
         
        /Email/: xxchai AT kias.re.kr (or postech.ac.kr; however, KIAS email is preferred)
        /Address/: Room 316, Department of Mathematics, POSTECH, Pohang, Korea
@@ -16,5 +15,5 @@ I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Stu
        Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 #+end_comment
 
- [[file:papers.org][Papers]] / [[file:cv.pdf][CV]] / [[file:links.org][ Links ]] / [[file:cv-cn.pdf][简历]]
+[[file:papers.org][Papers]] / [[file:cv.pdf][CV]] / [[file:links.org][ Links ]] / [[file:cv-cn.pdf][简历]]
    

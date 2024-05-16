@@ -4,6 +4,7 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
+
 My name is Chai Xiaoxiang (Chinese characthers: 柴小祥; Hangul: 차이 샤오샹).
 I am a BK21 research fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) in POSTECH. 
 
@@ -15,5 +16,8 @@ I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Stu
        Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 #+end_comment
 
-[[file:papers.org][Papers]] / [[file:cv.pdf][CV]] / [[file:links.org][ Links ]] / [[file:cv-cn.pdf][简历]]
-   
+[[file:papers.org][Papers]] / [[file:links.org][Links]]
+
+/I am looking for tenured-track jobs, see my CV in PDF format./ ([[file:cv.pdf][CV]] / [[file:cv-cn.pdf][简历]])
+
+(/last update on 15 May, 2024/)

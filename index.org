@@ -4,20 +4,32 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
+My name is CHAI Xiaoxiang (Chinese, 柴小祥; Hangul, 차이 샤오샹).
+I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) at [[https://www.postech.ac.kr/eng/][POSTECH]]. 
+       
+       /Email/: xxchai AT kias.re.kr (or postech.ac.kr, however, KIAS email is preferred)
+       /Address/: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
 
-My name is Chai Xiaoxiang (Chinese characthers: 柴小祥; Hangul: 차이 샤오샹).
-I am a BK21 research fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) in POSTECH. 
+       # Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
-I was a research fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentors: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]]). Before that, I was a PhD student (graduated on July 2018) of the Department of Mathematics, The Chinese University of Hong Kong. My advisors were [[http://www.math.cuhk.edu.hk/~martinli/][Prof. Martin Man-chun Li]] and Prof. Tam Luen-fai (co-advisor).
-        
-       /Email/: xxchai AT kias.re.kr (or postech.ac.kr; however, KIAS email is preferred)
-       /Address/: Room 316, Department of Mathematics, POSTECH, Pohang, Korea
-#+begin_comment
-       Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
-#+end_comment
 
-[[file:papers.org][Papers]] / [[file:links.org][Links]]
+[[file:papers.org][Papers]] / [[file:links.org][Links]] 
 
-/I am looking for tenured-track jobs, see my CV in PDF format./ ([[file:cv.pdf][CV]] / [[file:cv-cn.pdf][简历]])
+*News*
 
-(/last update on 15 May, 2024/)
+  # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
+  - /I am looking for tenured-track jobs. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
+
+*Employment and Education*
+
+   - Mar. 2023 ~ now, BK 21 Research Fellow, POSTECH. (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]])
+   - Mar. 2019 ~ Feb 2023, Research Fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentors: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]])
+   - Aug 2015 ~ July 2018, PhD student,  Department of Mathematics, The Chinese University of Hong Kong. Advisors: [[https://sites.google.com/view/martinli/home][Prof. Martin Man-chun Li]], Prof. Tam Luen-fai (co-advisor). 
+
+*Grants*
+
+  - Korea NRF, RS-2024-00337418 (PI, 2024-2026) 
+  - (participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: Beomjun Choi, 2022 ~ 2027)
+  - KIAS Individual Grants MG074401, MG074402 (2019-2023)
+
+(/last update on 25 Jul, 2024/)

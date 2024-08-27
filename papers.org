@@ -19,8 +19,9 @@
 * Preprints
 
   1. A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces. (with /[[https://sites.google.com/view/martinli/home][Martin Li]]/) (preprints available upon query).
-  2. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (this paper supercedes a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]]; the rigidity for initial data sets will appear in a separate paper with improved results)
-  3. A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane. (with /Yimin Chen/). [[https://arxiv.org/abs/2405.06934][arXiv]]
+  2. Initial data set rigidity results for polyhedra. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (this paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about initial data set rigidity) 
+  3. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (this paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about hyperbolic dihedral rigidity; a Llarull theorem is added) 
+  4. A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane. (with /Yimin Chen/). [[https://arxiv.org/abs/2405.06934][arXiv]]
   5. A tilted spacetime positive mass theorem. [[https://arxiv.org/abs/2304.05208][arXiv]] 
   6. Scalar curvature comparison of rotationally symmetric sets (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2304.13152][arXiv]]
   7. Band width estimates of CMC initial data sets (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2206.02624][arXiv]]

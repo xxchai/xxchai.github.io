@@ -19,7 +19,8 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   - /I am looking for tenured-track jobs. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
-  - to attend KMS fall meeting on Oct 24 - 26 in Suwon
+  - Chongqing University of Technology, Nov 22~27
+  # - to attend KMS fall meeting on Oct 24 - 26 in Suwon
 
 *Employment and Education*
 
@@ -33,4 +34,4 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
   - (participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: Beomjun Choi, 2022 ~ 2027)
   - KIAS Individual Grants MG074401, MG074402 (2019-2023)
 
-(/last update on 25 Jul, 2024/)
+(/last update on 22 Sept, 2024/)

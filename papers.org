@@ -18,14 +18,15 @@
 * Preprints
 
   1. A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces. (with /[[https://sites.google.com/view/martinli/home][Martin Li]]/) (preprints available upon query).
-  2. Initial data set rigidity results for polyhedra. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2408.13801][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about initial data set rigidity) 
-  3. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about hyperbolic dihedral rigidity; a Llarull theorem is added) 
-  4. A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane. (with /Yimin Chen/). [[https://arxiv.org/abs/2405.06934][arXiv]]
-  5. A tilted spacetime positive mass theorem. [[https://arxiv.org/abs/2304.05208][arXiv]] 
-  6. Scalar curvature comparison of rotationally symmetric sets (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2304.13152][arXiv]]
-  7. Band width estimates of CMC initial data sets (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2206.02624][arXiv]] (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]])
-  8. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv]]
-  9. Positive mass theorem and free boundary minimal surfaces. [[https://arxiv.org/abs/1811.06254][arXiv]]
-  10. Two quasi-local masses evaluated on surfaces with boundary. [[https://arxiv.org/abs/1811.06168][arXiv]]
-  11. A note on Minkowski formula of conformal Killing-Yano 2-forms. [[https://arxiv.org/abs/2101.08966][arXiv]]
+  2. Scalar curvature rigidity of rotationally symmetric domains in a warped product (with /[[https://gaomw.com/][Gaoming Wang]]/). [[file:./warped-preprint.pdf][pdf]] (The paper was finished, however, we are working to incorporate the exciting new ideas of [[https://arxiv.org/abs/2410.20548][Ko-Yao 2024]])
+  3. Initial data set rigidity results for polyhedra. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2408.13801][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about initial data set rigidity) 
+  4. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about hyperbolic dihedral rigidity; a Llarull theorem is added) 
+  5. A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane. (with /Yimin Chen/). [[https://arxiv.org/abs/2405.06934][arXiv]]
+  6. A tilted spacetime positive mass theorem. [[https://arxiv.org/abs/2304.05208][arXiv]] 
+  7. Scalar curvature comparison of rotationally symmetric sets (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2304.13152][arXiv]]
+  8. Band width estimates of CMC initial data sets (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2206.02624][arXiv]] (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]])
+  9. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv]]
+  10. Positive mass theorem and free boundary minimal surfaces. [[https://arxiv.org/abs/1811.06254][arXiv]]
+  11. Two quasi-local masses evaluated on surfaces with boundary. [[https://arxiv.org/abs/1811.06168][arXiv]]
+  12. A note on Minkowski formula of conformal Killing-Yano 2-forms. [[https://arxiv.org/abs/2101.08966][arXiv]]
  

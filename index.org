@@ -15,11 +15,12 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
 
 [[file:papers.org][Papers]] / [[file:links.org][Links]] 
 
-*News*
+*News* (/last update on 19 Nov, 2024/)
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
-  - /I am looking for tenured-track jobs. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
+  - /I am looking for tenure track jobs. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   - Chongqing University of Technology, Nov 22~27
+  - New preprint available at [[file:./warped-preprint.pdf][pdf]] with title /Scalar curvature rigidity of rotationally symmetric domains in a warped product/ (with /[[https://gaomw.com/][Gaoming Wang]]/). (The paper was finished, however, we are working to incorporate the exciting new ideas of [[https://arxiv.org/abs/2410.20548][Ko-Yao 2024]])
   # - to attend KMS fall meeting on Oct 24 - 26 in Suwon
 
 *Employment and Education*
@@ -34,4 +35,3 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
   - (participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: Beomjun Choi, 2022 ~ 2027)
   - KIAS Individual Grants MG074401, MG074402 (2019-2023)
 
-(/last update on 22 Sept, 2024/)

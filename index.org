@@ -37,3 +37,6 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
   - (participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: Beomjun Choi, 2022 ~ 2027)
   - KIAS Individual Grants MG074401, MG074402 (2019-2023)
 
+*Expository*
+
+  - Lecture notes on band width estimate in KIAS Winter Geometry School ([[file:band-width-estimate.pdf][pdf]])

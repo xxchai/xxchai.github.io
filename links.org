@@ -10,6 +10,9 @@
   - [[https://www.researchgate.net/profile/Inkang_Kim][Prof. KIM Inkang]] (KIAS)
   - [[http://www.math.miami.edu/~pengzim/][Prof. MIAO Pengzi]] (Miami University)
   - [[https://sites.google.com/cornell.edu/xinzhou][Prof. ZHOU Xin]] (Cornell)
+  - [[https://sites.google.com/site/mathbeomjun/][CHOI Beomjun]] (POSTECH)
   - [[https://msrc.cqut.edu.cn/info/1018/1571.htm][WAN Xueyuan]] (Chongqing U. of Technology)
   - [[https://gaomw.com/][WANG Gaoming]] (Tsinghua U.)
   - [[https://sites.google.com/cornell.edu/dorisyao/home][YAO Xuan]] (Cornell)
+  - [[https://sites.google.com/view/kunwookim][KIM Kunwoo]] (POSTECH)
+    

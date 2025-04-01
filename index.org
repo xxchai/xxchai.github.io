@@ -16,13 +16,14 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
 [[file:papers.org][Research]] / [[file:chai-xiaoxiang-cv-en.pdf][CV]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]] / [[file:links.org][Links]]
 
 
-*News* (/last update on 31 Mar, 2025/)
+*News* (/update on 1 Apr, 2025/)
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   # - I am looking for tenure track jobs. See my CV in PDF format ([[file:chai-xiaoxiang-cv-en.pdf][Curriculum Vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]).
-  - /New [[https://arxiv.org/abs/2503.04025][preprint]]/ with [[https://gaomw.com/][Gaoming Wang]] on /Scalar curvature rigidity of domains in a 3-dimensional warped product/. 
+  - /New [[https://arxiv.org/abs/2503.04025][preprint]]/ with [[https://gaomw.com/][Gaoming Wang]] (Tsinghua) on /Scalar curvature rigidity of domains in a 3-dimensional warped product/. 
+  - /New [[./spec-bwe.pdf][preprint]]/ with Yukai Sun (PKU) on /Band width estimates with lower spectral curvature bounds/.
   - /Band width estimates for CMC initial data sets/ (joint with Xueyuan Wan, see [[https://arxiv.org/abs/2206.02624][arXiv]]) accepted in /CAG/ on 2 Feb.
-  - /A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane/ (with /Yimin Chen/, [[https://arxiv.org/abs/2405.06934][arXiv]] accpeted in /Comm. Comtep. Math./ on 31 Mar.
+  - /A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane/ (with /Yimin Chen/, [[https://arxiv.org/abs/2405.06934][arXiv]]) accpeted in /Comm. Comtep. Math./ on 31 Mar.
   - /Talk, KMS spring meeting/, 24-26 Apr, KAIST, Daejeon. 
   # - /Trip/, 27-31 Mar, 2025, Hangzhou. 
   # - Mar. 02, the paper (see [[https://arxiv.org/abs/2405.06934][arXiv]], with /Yimin Chen/) accpeted in /Comm. Contemp. Math./ 

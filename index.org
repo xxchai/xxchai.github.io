@@ -1,30 +1,29 @@
 #+title: 柴小祥
-#+options: toc:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
-#+OPTIONS: \n:t
+#+date: <2025-04-09 Wed>
+#+filetags: index
 #+OPTIONS: num:nil
 
 My name is CHAI Xiaoxiang (Chinese, 柴小祥; Hangul, 차이 샤오샹).
 I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) at [[https://www.postech.ac.kr/eng/][POSTECH]]. 
+
+My research is partially supported Korea NRF RS-2024-00337418 (2024-2026) and (as a participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], 2022 ~ 2027).
        
-       /Email/: xxchai AT kias.re.kr (or postech.ac.kr, however, KIAS email is preferred)
-       /Address/: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
+*Email*: xxchai AT kias.re.kr (or postech.ac.kr, however, KIAS email is preferred)
+*Address*: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
 
-       # Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
-
-
-[[file:papers.org][Research]] / [[file:chai-xiaoxiang-cv-en.pdf][CV]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]] / [[file:links.org][Links]]
+# Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
 
-*News* (/update on 1 Apr, 2025/)
+* News (/update on 09 Apr, 2025/)
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   # - I am looking for tenure track jobs. See my CV in PDF format ([[file:chai-xiaoxiang-cv-en.pdf][Curriculum Vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]).
+  - /Talk, KMS spring meeting/, 24-26 Apr, KAIST, Daejeon. 
+  - New look of this site based on this [[https://probberechts.github.io/hexo-theme-cactus/cactus-classic/public/][theme]].
   - /New [[https://arxiv.org/abs/2503.04025][preprint]]/ with [[https://gaomw.com/][Gaoming Wang]] (Tsinghua) on /Scalar curvature rigidity of domains in a 3-dimensional warped product/. 
   - /New [[./spec-bwe.pdf][preprint]]/ with Yukai Sun (PKU) on /Band width estimates with lower spectral curvature bounds/.
   - /Band width estimates for CMC initial data sets/ (joint with Xueyuan Wan, see [[https://arxiv.org/abs/2206.02624][arXiv]]) accepted in /CAG/ on 2 Feb.
   - /A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane/ (with /Yimin Chen/, [[https://arxiv.org/abs/2405.06934][arXiv]]) accpeted in /Comm. Comtep. Math./ on 31 Mar.
-  - /Talk, KMS spring meeting/, 24-26 Apr, KAIST, Daejeon. 
   # - /Trip/, 27-31 Mar, 2025, Hangzhou. 
   # - Mar. 02, the paper (see [[https://arxiv.org/abs/2405.06934][arXiv]], with /Yimin Chen/) accpeted in /Comm. Contemp. Math./ 
   # - 12-13 Feb, POSTECH-PNU BK Workshop, POSTECH.
@@ -33,18 +32,3 @@ I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomju
   # - Geometry winter school, Jan. 2025
   # - PDE winter school, Jan. 2025, Ulsan
 
-*Employment and Education*
-
-   - Mar. 2023 ~ now, BK 21 Research Fellow, POSTECH. (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]])
-   - Mar. 2019 ~ Feb 2023, Research Fellow at [[http://kias.re.kr][Korea Institute for Advanced Study]] (mentors: Feb 2020 ~ Feb 2023, [[https://www.researchgate.net/profile/Inkang_Kim][Prof. Inkang Kim]]; Mar 2019 ~ Feb 2020, [[http://newton.kias.re.kr/~choe/][Prof. Choe Jaigyoung]])
-   - Aug 2015 ~ July 2018, PhD student,  Department of Mathematics, The Chinese University of Hong Kong. Advisors: [[https://sites.google.com/view/martinli/home][Prof. Martin Man-chun Li]], Prof. Tam Luen-fai (co-advisor). 
-
-*Grants*
-
-  - Korea NRF, RS-2024-00337418 (PI, 2024-2026) 
-  - (participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: Beomjun Choi, 2022 ~ 2027)
-  - KIAS Individual Grants MG074401, MG074402 (2019-2023)
-
-*Expository*
-
-  - Lecture notes on band width estimate in KIAS Winter Geometry School ([[file:band-width-estimate.pdf][pdf]])

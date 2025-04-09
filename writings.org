@@ -1,0 +1,15 @@
+#+title: Writings
+#+date: <2025-04-09 Wed>
+#+filetags: papers
+#+OPTIONS: \n:t
+#+OPTIONS: num:nil
+
+Here I collect all the writings I did. (mostly in construction)
+
+* Expository
+
+  - Lecture notes on band width estimate in KIAS Winter Geometry School ([[file:band-width-estimate.pdf][pdf]])
+
+* Others    
+
+  - (to be added!)

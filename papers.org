@@ -4,18 +4,24 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
+* Selected highlights
+
+  1. A tilted spacetime positive mass theorem. [[https://arxiv.org/abs/2304.05208][arXiv]] 
+  2. Scalar curvature rigidity of domains in a 3-dimensional warped product (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2503.04025][arXiv]].
+  3. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about hyperbolic dihedral rigidity; a Llarull theorem is added) 
+
 * Publication
 
-  5. A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane. (with /Yimin Chen/). [[https://arxiv.org/abs/2405.06934][arXiv]]
-  8. Band width estimates of CMC initial data sets (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). /Accepted in CAG on 2 Feb, 2025/. [[https://arxiv.org/abs/2206.02624][arXiv]] (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]]) 
-  1. Spectral constant rigidity of warped product metrics (with /[[https://scholar.google.co.kr/citations?user=RrX0fsEAAAAJ&hl=ko][Juncheol Pyo]]/, /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). J. Lond. Math. Soc. (2) 110 (2024), no.1, Paper No. e12958. [[https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12958][journal]], [[http://arxiv.org/abs/2310.13329][arXiv]].
-  2. Inverse mean curvature flow with a free boundary in hyperbolic space. /Calc. Var. Partial Differential Equations/, 63, 109 (2024). [[https://link.springer.com/article/10.1007/s00526-024-02720-w#citeas][journal]], [[https://arxiv.org/abs/2203.08467][arXiv]]. 
-  3. Dihedral rigidity in hyperbolic 3-space. (with /[[https://gaomw.com/][Gaoming Wang]]/) /Trans. Amer. Math. Soc./, *337* (2024), 807-840. [[https://www.ams.org/journals/tran/2024-377-02/S0002-9947-2023-09057-2/][journal]], [[https://arxiv.org/abs/2208.03859][arXiv]]. (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
-  4. A curvature estimate for stable marginally outer trapped hypersurface with a free boundary. /Int. Math. Res. Not. IMRN/ (2024), no. 6, 4624-4655.  [[https://academic.oup.com/imrn/article/2024/6/4624/7194738][journal]], [[https://arxiv.org/abs/2205.05890v1][arXiv]].
-  5. The mass of an asymptotically hyperbolic end and distance estimates (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). /J. of Math. Phys./ *63* (2022), no. 12, Paper No. 122502. [[https://pubs.aip.org/aip/jmp/article/63/12/122502/2846153/The-mass-of-an-asymptotically-hyperbolic-end-and][journal]], [[https://arxiv.org/abs/2207.06141][arXiv]].
-  6. Scalar curvature, mean curvature and harmonic maps to the circle (with /[[https://www.researchgate.net/profile/Inkang_Kim][Inkang Kim]]/). /Annals of Global Analysis and Geometry/, *62*, 201–219 (2022). [[https://link.springer.com/article/10.1007/s10455-022-09849-x][journal]], [[https://arxiv.org/abs/2103.09737][arXiv]].
-  7. Evaluation of the mass of an asymptotically hyperbolic manifold. /The Journal of Geometric Analysis/, *32* (7), 1-18, (2022). [[https://link.springer.com/article/10.1007/s12220-022-00948-6][journal]], [[https://arxiv.org/abs/1811.09778][arXiv]].
-  8. Willmore type inequality using monotonicity formulas. /Pacific Journal of Mathematics/, *307* (1), 53-62, (2020). [[https://msp.org/pjm/2020/307-1/p03.xhtml][journal]], [[https://arxiv.org/abs/1811.05617][arXiv]].
+  1. A constrained mean curvature flow on capillary hypersurface supported on totally geodesic plane. (with /Yimin Chen/). [[https://arxiv.org/abs/2405.06934][arXiv]]
+  2. Band width estimates of CMC initial data sets (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). /Accepted in CAG on 2 Feb, 2025/. [[https://arxiv.org/abs/2206.02624][arXiv]] (This supercedes previous papers [[https://arxiv.org/abs/2107.12782][2107.12782]], [[https://arxiv.org/abs/2107.12784][2107.12784]]) 
+  3. Spectral constant rigidity of warped product metrics (with /[[https://scholar.google.co.kr/citations?user=RrX0fsEAAAAJ&hl=ko][Juncheol Pyo]]/, /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). J. Lond. Math. Soc. (2) 110 (2024), no.1, Paper No. e12958. [[https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/jlms.12958][journal]], [[http://arxiv.org/abs/2310.13329][arXiv]].
+  4. Inverse mean curvature flow with a free boundary in hyperbolic space. /Calc. Var. Partial Differential Equations/, 63, 109 (2024). [[https://link.springer.com/article/10.1007/s00526-024-02720-w#citeas][journal]], [[https://arxiv.org/abs/2203.08467][arXiv]]. 
+  5. Dihedral rigidity in hyperbolic 3-space. (with /[[https://gaomw.com/][Gaoming Wang]]/) /Trans. Amer. Math. Soc./, *337* (2024), 807-840. [[https://www.ams.org/journals/tran/2024-377-02/S0002-9947-2023-09057-2/][journal]], [[https://arxiv.org/abs/2208.03859][arXiv]]. (This paper contains a previous result /Mass and polyhedra in asymptotically hyperbolic manifolds/ [[https://arxiv.org/abs/2102.10715][arXiv:2102.10715]])
+  6. A curvature estimate for stable marginally outer trapped hypersurface with a free boundary. /Int. Math. Res. Not. IMRN/ (2024), no. 6, 4624-4655.  [[https://academic.oup.com/imrn/article/2024/6/4624/7194738][journal]], [[https://arxiv.org/abs/2205.05890v1][arXiv]].
+  7. The mass of an asymptotically hyperbolic end and distance estimates (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). /J. of Math. Phys./ *63* (2022), no. 12, Paper No. 122502. [[https://pubs.aip.org/aip/jmp/article/63/12/122502/2846153/The-mass-of-an-asymptotically-hyperbolic-end-and][journal]], [[https://arxiv.org/abs/2207.06141][arXiv]].
+  8. Scalar curvature, mean curvature and harmonic maps to the circle (with /[[https://www.researchgate.net/profile/Inkang_Kim][Inkang Kim]]/). /Annals of Global Analysis and Geometry/, *62*, 201–219 (2022). [[https://link.springer.com/article/10.1007/s10455-022-09849-x][journal]], [[https://arxiv.org/abs/2103.09737][arXiv]].
+  9. Evaluation of the mass of an asymptotically hyperbolic manifold. /The Journal of Geometric Analysis/, *32* (7), 1-18, (2022). [[https://link.springer.com/article/10.1007/s12220-022-00948-6][journal]], [[https://arxiv.org/abs/1811.09778][arXiv]].
+  10. Willmore type inequality using monotonicity formulas. /Pacific Journal of Mathematics/, *307* (1), 53-62, (2020). [[https://msp.org/pjm/2020/307-1/p03.xhtml][journal]], [[https://arxiv.org/abs/1811.05617][arXiv]].
 
 * Preprints
 
@@ -23,10 +29,10 @@
   2. Scalar curvature rigidity of domains in a 3-dimensional warped product (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2503.04025][arXiv]].
   3. Initial data set rigidity results for polyhedra. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2408.13801][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about initial data set rigidity) 
   4. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about hyperbolic dihedral rigidity; a Llarull theorem is added) 
-  6. A tilted spacetime positive mass theorem. [[https://arxiv.org/abs/2304.05208][arXiv]] 
-  7. Scalar curvature comparison of rotationally symmetric sets (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2304.13152][arXiv]]
-  9. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv]]
-  10. Positive mass theorem and free boundary minimal surfaces. [[https://arxiv.org/abs/1811.06254][arXiv]]
-  11. Two quasi-local masses evaluated on surfaces with boundary. [[https://arxiv.org/abs/1811.06168][arXiv]]
-  12. A note on Minkowski formula of conformal Killing-Yano 2-forms. [[https://arxiv.org/abs/2101.08966][arXiv]]
+  5. A tilted spacetime positive mass theorem. [[https://arxiv.org/abs/2304.05208][arXiv]] 
+  6. Scalar curvature comparison of rotationally symmetric sets (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2304.13152][arXiv]]
+  7. Asymptotically hyperbolic manifold with a horospherical boundary. [[https://arxiv.org/abs/2102.08889][arXiv]]
+  8. Positive mass theorem and free boundary minimal surfaces. [[https://arxiv.org/abs/1811.06254][arXiv]]
+  9. Two quasi-local masses evaluated on surfaces with boundary. [[https://arxiv.org/abs/1811.06168][arXiv]]
+  10. A note on Minkowski formula of conformal Killing-Yano 2-forms. [[https://arxiv.org/abs/2101.08966][arXiv]]
  

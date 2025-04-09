@@ -1,0 +1,20 @@
+#+title: 柴小祥
+#+date: <2023-02-08 Wed>
+#+filetags: hello
+#+OPTIONS: num:nil
+
+# #+ATTR_HTML: :width 200 :style border:2px; 
+# #+ATTR_HTML: :style float:right; margin:3px;
+# #+ATTR_HTML: :width 200; :style float:left; margin-left:20px;
+#+ATTR_HTML: :width 200; :style float:left; padding-right:38px; padding-top:8px
+[[./p3.jpg]]
+My name is CHAI Xiaoxiang (Chinese, 柴小祥; Hangul, 차이 샤오샹).
+I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) at [[https://www.postech.ac.kr/eng/][POSTECH]]. 
+\\
+My research is partially supported Korea NRF RS-2024-00337418 (2024-2026) and (as a participant/employee) Korea NRF 2022R1C1C1013511 (PI: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], 2022 ~ 2027).
+\\
+\\
+*Email*: xxchai AT kias.re.kr (or postech.ac.kr, however, KIAS email is preferred)
+\\
+*Address*: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
+

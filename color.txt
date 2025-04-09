@@ -1,0 +1,3 @@
+ cp cac.css.red.bak cac.css && sed -iE s/#cc2a41/#$1/ cac.css #648de5
+ sed -iE s/rgba.86,124,119,0.4./#a1ef8b/g cac.css             #a1ef8b
+ emacsclient cac.css --no-wait

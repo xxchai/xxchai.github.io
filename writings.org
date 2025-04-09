@@ -4,12 +4,12 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
-Here I collect all the writings I did. (mostly in construction)
+Here I collect some writings I did. (mostly in construction)
+
+  - (to be added!)
 
 * Expository
 
   - Lecture notes on band width estimate in KIAS Winter Geometry School ([[file:band-width-estimate.pdf][pdf]])
 
-* Others    
 
-  - (to be added!)

@@ -2,7 +2,6 @@
 #+date: <2025-04-09 Wed>
 #+filetags: papers
 #+OPTIONS: \n:t
-#+OPTIONS: num:nil
 
 * Selected highlights
 
@@ -26,6 +25,7 @@
 * Preprints
 
   1. A mixed boundary value problem for Jang’s equation and the existence of free boundary marginally outer trapped surfaces. (with /[[https://sites.google.com/view/martinli/home][Martin Li]]/) (preprints available upon query).
+  1. Band width estimates with lower spectral curvature bound. (with /Yukai Sun/). [[https://arxiv.org/abs/2504.10142][arXiv]]
   2. Scalar curvature rigidity of domains in a 3-dimensional warped product (with /[[https://gaomw.com/][Gaoming Wang]]/). [[https://arxiv.org/abs/2503.04025][arXiv]].
   3. Initial data set rigidity results for polyhedra. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2408.13801][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about initial data set rigidity) 
   4. Scalar curvature rigidity of domains in a warped product. (with /[[https://msrc.cqut.edu.cn/info/1018/1571.htm][Xueyuan Wan]]/). [[https://arxiv.org/abs/2407.10212][arXiv]] (This paper contains improvements over results from a previous preprint [[https://arxiv.org/abs/2312.16022][arXiv:2312.16022]] about hyperbolic dihedral rigidity; a Llarull theorem is added) 

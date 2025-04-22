@@ -1,33 +1,40 @@
 #+title: 柴小祥
 #+date: <2025-04-09 Wed>
 #+filetags: index
-#+OPTIONS: num:nil
 
-My name is CHAI Xiaoxiang (Chinese, 柴小祥; Hangul, 차이 샤오샹) (see [[./about1.org][here]] for a profile).
+My name is CHAI Xiaoxiang (Chinese, 柴小祥; Hangul, 차이 샤오샹).
 
-I am a BK 21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) at [[https://www.postech.ac.kr/eng/][POSTECH]]. 
-My research is partially supported Korea NRF RS-2024-00337418 (2024-2026) and (as a participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], 2022 ~ 2027).
-       
- See [[./about.org][about]] / [[file:papers.org][research]] / [[file:chai-xiaoxiang-cv-en.pdf][vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]. 
 
-*Email*: xxchai AT kias.re.kr (or postech.ac.kr, however, KIAS email is preferred)
+I am a BK21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) at [[https://www.postech.ac.kr/eng/][POSTECH]]. 
 \\
+My research is partially supported Korea NRF RS-2024-00337418 (2024-2026) and (as a participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], 2022 ~ 2027).
+
+See [[./about.org][about]] / [[file:papers.org][papers]] / [[file:chai-xiaoxiang-cv-en.pdf][vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]. 
+       
+*Email*: *xxchai AT kias.re.kr* (or postech.ac.kr, however, KIAS email is preferred)
+
 *Address*: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
 
-
 # Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
+# Address: Room 1530, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
 
-* *News* (/update on 09 apr, 2025/)
+* *News* (/update on 19 apr, 2025/)
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   # - I am looking for tenure track jobs. See my CV in PDF format ([[file:chai-xiaoxiang-cv-en.pdf][Curriculum Vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]).
+
+  # June, talk, Huazhong Normal University
+  # May, jcchu seminar
+  # bzhu seminar
+
   - 24-26 Apr, talk, KMS spring meeting, KAIST, Daejeon. 
   - New look of this site based on this [[https://probberechts.github.io/hexo-theme-cactus/cactus-classic/public/][theme]].
-  - New [[./spec-bwe.pdf][preprint]] with Yukai Sun (PKU). 
+  - New [[https://arxiv.org/abs/2504.10142][preprint]] with Yukai Sun (PKU).
   - New [[https://arxiv.org/abs/2503.04025][preprint]] with [[https://gaomw.com/][Gaoming Wang]] (YMSC, Tsinghua).
   - 31 Mar, [[https://arxiv.org/abs/2405.06934][paper]] joint with Yimin Chen accpeted in /Comm. Comtep. Math./.
   - 2 Feb, [[https://arxiv.org/abs/2206.02624][paper]] joint with Xueyuan Wan accepted in /CAG/.
+
   # - /Trip/, 27-31 Mar, 2025, Hangzhou. 
   # - 12-13 Feb, POSTECH-PNU BK Workshop, POSTECH.
   # - to attend KMS fall meeting on Oct 24 - 26 in Suwon

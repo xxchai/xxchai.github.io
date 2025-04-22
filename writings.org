@@ -4,7 +4,7 @@
 #+OPTIONS: \n:t
 #+OPTIONS: num:nil
 
-Here I collect some writings I did. (mostly in construction)
+Here I collect some things I worte. (mostly in construction)
 
   - (to be added!)
 

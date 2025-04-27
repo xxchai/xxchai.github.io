@@ -1,9 +1,118 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8"/>
-    <meta http-equiv="refresh" content="1;url=https://drive.google.com/drive/folders/1W8sr0zHMVmp0Y_3VA1hW4NbqpthlqYZM?usp=share_link">
-    <title>Printing shortcut</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title> Shared files </title>
+    <link rel="stylesheet" href="./cac.css">
+    <link rel="stylesheet" href="./rtl.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
   </head>
-  <body></body>
+  <body class="max-width mx-auto px3 ltr">
+    <div class="content index py4">
+      <header id="header">
+	<a href="./index.html">
+	  <div id="logo" style="background-image: url(./logo.png);"></div>
+	  <div id="title">
+	    <h1>  xxchai  </h1>
+	  </div>
+	</a>
+	<div id="nav">
+	  <ul>
+	    <li class="icon">
+	      <!-- <a href="./index.html"> -->
+		<i class="fas fa-bars fa-2x"></i>
+		<!-- </a> -->
+	    </li>
+	    <li>
+	      <a href="./index.html">Home</a>
+	    </li>
+	    <li>
+	      <a href="./papers.html">Papers</a>
+	    </li>
+	    <li>
+	      <a href="./writings.html">Writings</a>
+	    </li>
+	    <li>
+	      <a href="./links.html">Links</a>
+	    </li>
+	    <li>
+	      <a href="./about.html">About</a>
+	    </li>
+	  </ul>
+	</div>
+      </header>
+
+      <h1> Protected Link </h1>
+
+      <h2>Please provide password to gain access</h2>
+
+      <p/>
+      <input type="password" id="password" placeholder="Password" style="width: 200px;">
+      &nbsp;&nbsp;&nbsp; <button onclick="decrypt()">Unlock</button>
+
+      <p id="error" style="color: red;"></p>
+
+      <script>
+	const encryptedLink="U2FsdGVkX18SBw0WBqTBYp+zVyqhMrM/kjSq2VPKnrRZkxdFGOmv6mBNU4edXTzZXllQpimmDROYekS60HIADLdXqLpCqgxYrNLWR5in/PD6XNxNq/yZTn6rvrajvut8B/DyJRob2Z4L1UfBtzpxJQ==";
+	function decrypt() {
+	    const password = document.getElementById('password').value;
+	    try {
+		const bytes = CryptoJS.AES.decrypt(encryptedLink, password);
+		const decrypted = bytes.toString(CryptoJS.enc.Utf8);
+
+		if (decrypted.startsWith("http")) {
+		    window.location.href = decrypted;
+		} else {
+		    throw new Error("Invalid password or corrupted data.");
+		}
+	    } catch (e) {
+		document.getElementById('error').innerText = "Invalid password.";
+	    }
+	}
+
+	// Add Enter key listener
+	document.getElementById('password').addEventListener("keyup", function(event) {
+	    if (event.key === "Enter") {
+		decrypt();
+	    }
+	});
+      </script>
+
+
+
+      <footer id="footer">
+        <div class="footer-left"> Copyright © 2018-2025 xxchai </div>
+        <div class="footer-right">
+          <nav>
+            <ul>
+              <li>
+		<a href="./">Home</a>
+              </li>
+              <li>
+		<a href="./papers.html">Papers</a>
+              </li>
+              <li>
+		<a href="./writings.html">Writings</a>
+              </li>
+              <li>
+		<a href="./links.html">Links</a>
+              </li>
+              <li>
+		<a href="./about.html">About</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </footer>
+
+      <link rel="stylesheet" href="./all.min.css">
+      <link rel="stylesheet" href="./justifiedGallery.min.css">
+      <script src="./jquery.min.js.download"></script>
+      <script src="./jquery.justifiedGallery.min.js.download"></script>
+      <script src="./main.js.download"></script>
+    </div>
+  </body>
 </html>

@@ -12,29 +12,35 @@ My research is partially supported Korea NRF RS-2024-00337418 (2024-2026) and (a
 See [[./about.org][about]] / [[file:papers.org][papers]] / [[file:chai-xiaoxiang-cv-en.pdf][vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]. 
        
 *Email*: *xxchai AT kias.re.kr* (or postech.ac.kr, however, KIAS email is preferred)
-
+\\
 *Address*: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
 
 # Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 # Address: Room 1530, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
 
-* *News* (/update on 27 apr, 2025/)
+* *News and Traces* (/update on 13 Jul, 2025/)
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   # - I am looking for tenure track jobs. See my CV in PDF format ([[file:chai-xiaoxiang-cv-en.pdf][Curriculum Vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]).
 
-  # June, talk, Huazhong Normal University
-  # May, jcchu seminar
-  # bzhu seminar
+    
   # - 24-26 Apr, talk, KMS spring meeting, KAIST, Daejeon. 
+      # Jang equation and marginally outer trapped surfaces
 
-  - 14 Apr, [[https://arxiv.org/abs/2504.10142][preprint]] with Yukai Sun (PKU).
-  - 6 Mar, [[https://arxiv.org/abs/2503.04025][preprint]] with [[https://gaomw.com/][Gaoming Wang]] (YMSC, Tsinghua).
-  - 31 Mar, [[https://arxiv.org/abs/2405.06934][paper]] joint with Yimin Chen accpeted in /Comm. Comtep. Math./.
-  - 2 Feb, [[https://arxiv.org/abs/2206.02624][paper]] joint with Xueyuan Wan accepted in /CAG/.
-  - New look of this site based on [[https://probberechts.github.io/hexo-theme-cactus/cactus-classic/public/][this]].
+  - A new version available [[file:tilt-spacetime-positive-mass-theorem.pdf][here]] of [[https://arxiv.org/abs/2304.05208][tilted spacetime positive mass theorem]].
+  # - 8-10 Jul, Summer 2025 Convergence of Scalar Curvature (COSC) Workshop.
+      # Llarull type rigidity for compact domains in a warped product
+  # June 27, talk, Huazhong Normal University
+  # scalar curvature rigidity of compact manifolds
+#   - 21 May, [[https://www.math.pku.edu.cn/teachers/jianchunchu/seminar.html][geometric analysis seminar, BICMR]] (online) 
+      # Capillary mu-bubbles and tangent cone analysis in Llarull type theorems
+  # - 14 Apr, [[https://arxiv.org/abs/2504.10142][preprint]] with Yukai Sun (PKU).
+  # - 6 Mar, [[https://arxiv.org/abs/2503.04025][preprint]] with [[https://gaomw.com/][Gaoming Wang]] (YMSC, Tsinghua).
+  # - 31 Mar, [[https://arxiv.org/abs/2405.06934][paper]] joint with Yimin Chen accpeted in /Comm. Comtep. Math./. [[https://doi.org/10.1142/s0219199725500506][DOI]].
+  # - 2 Feb, [[https://arxiv.org/abs/2206.02624][paper]] joint with Xueyuan Wan accepted in /CAG/ (see CAG [[https://intlpress.com/journals/journalList?p=4&id=1804413039214129153][notice]]). 
 
+  # - New look of this site based on [[https://probberechts.github.io/hexo-theme-cactus/cactus-classic/public/][this]].
   # - /Trip/, 27-31 Mar, 2025, Hangzhou. 
   # - 12-13 Feb, POSTECH-PNU BK Workshop, POSTECH.
   # - KMS fall meeting on Oct 24 - 26 in Suwon

@@ -4,22 +4,25 @@
 
 My name is CHAI Xiaoxiang (Chinese, 柴小祥; Hangul, 차이 샤오샹).
 
+Most of my research is about minimal surfaces, scalar curvature geometry and geometric relativity. 
 
 I am a BK21 Research Fellow (mentor: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], Mar 2023 ~ now) at [[https://www.postech.ac.kr/eng/][POSTECH]]. 
 \\
 My research is partially supported Korea NRF RS-2024-00337418 (2024-2026) and (as a participant researcher/employee) Korea NRF 2022R1C1C1013511 (PI: [[https://sites.google.com/site/mathbeomjun/][Beomjun Choi]], 2022 ~ 2027).
 
 See [[./about.org][about]] / [[file:papers.org][papers]] / [[file:chai-xiaoxiang-cv-en.pdf][vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]. 
+# ORCID https://orcid.org/0000-0002-9429-6126
        
 *Email*: *xxchai AT kias.re.kr* (or postech.ac.kr, however, KIAS email is preferred)
 \\
-*Address*: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
+*Address*: Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
+# *Address*: Room 316, Dept. of Math., POSTECH, 77 Cheongam-Ro, Nam-Gu, Pohang, Gyeongbuk, Korea 37673
 
 # Address: Room 1417, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 # Address: Room 1530, KIAS, 85 Hoegiro, Dongdaemun-gu, Seoul 02455, South Korea
 
 
-* *News and Traces* (/update on 13 Jul, 2025/)
+* *News and Traces* (/update on 2 Sept, 2025/)
 
   # - /I am looking for tenured-track jobs in China (Anhui, Wuhan, Nanjing etc.), Korea. See my CV in PDF format/ ([[file:cv.pdf][Curriculum Vitae]] / [[file:cv-cn.pdf][简历]])
   # - I am looking for tenure track jobs. See my CV in PDF format ([[file:chai-xiaoxiang-cv-en.pdf][Curriculum Vitae]] / [[file:chai-xiaoxiang-cv-cn.pdf][简历]]).
@@ -29,6 +32,9 @@ See [[./about.org][about]] / [[file:papers.org][papers]] / [[file:chai-xiaoxiang
       # Jang equation and marginally outer trapped surfaces
 
   - A new version available [[file:tilt-spacetime-positive-mass-theorem.pdf][here]] of [[https://arxiv.org/abs/2304.05208][tilted spacetime positive mass theorem]].
+  - 14 Oct, online talk at [[https://ncts.ntu.edu.tw/events_seminars_detail.php?gid=309][NCTS differential geometry seminar]].
+  - 22-24 Oct, (attend) [[https://www.kms.or.kr/conference/meeting/?period=90][KMS fall meeting]], Seoul.
+  - 21-24 Nov, (attend a conference) Sun Yat-sen University, Shenzhen.
   # - 8-10 Jul, Summer 2025 Convergence of Scalar Curvature (COSC) Workshop.
       # Llarull type rigidity for compact domains in a warped product
   # June 27, talk, Huazhong Normal University
